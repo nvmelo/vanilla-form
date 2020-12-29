@@ -1,2 +1,1 @@
-"# vanilla-form" 
 # vanilla-form 
